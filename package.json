@@ -1,0 +1,17 @@
+{
+  "name": "jasmine-tests",
+  "version": "1.0.0",
+  "description": "application to test jasmine framework",
+  "main": "tests.js",
+  "scripts": {
+    "test": "jasmine ./tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
